@@ -1,0 +1,13 @@
+body {
+    background-image: url("station.jpg");
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1,
+h2 {
+    color: #333;
+    font-size: 24px;
+}
