@@ -12,3 +12,22 @@ h2 {
     color: #333;
     font-size: 24px;
 }
+#incrBtn,#saveBtn{
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 130px;
+
+}
+#incrBtn{
+    background-color: red;
+    display: block;
+   justify-self: center;
+   margin: 1%;
+}
+#saveBtn{
+    background-color: green;
+}
+#entries{
+    margin:2%;
+}
